@@ -43,7 +43,7 @@ Key learning outcomes include:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/langchain-assignment.git
+   git clone [https://github.com/your-username/langchain-assignment.git](https://github.com/cvijayvinoth/Langchain-Ecosystems.git)
    cd langchain-assignment
    ```
 
